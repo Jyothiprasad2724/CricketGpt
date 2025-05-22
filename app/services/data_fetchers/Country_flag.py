@@ -18,6 +18,3 @@ if __name__ == '__main__':
     if result:
         with open('data\CountryFlag_Data\countries.json', 'w') as f:
             json.dump(result, f, indent=4)
-
-    
-
