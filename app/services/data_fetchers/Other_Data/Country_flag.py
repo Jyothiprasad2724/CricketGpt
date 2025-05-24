@@ -13,8 +13,3 @@ def CountryFlag():
         print(f"Error with statuscode:{res.status_code}")
 
 
-if __name__ == '__main__':
-    result = CountryFlag()
-    if result:
-        with open('data\CountryFlag_Data\countries.json', 'w') as f:
-            json.dump(result, f, indent=4)

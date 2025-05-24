@@ -1,0 +1,805 @@
+{
+    "apikey": "9139fc75-b90b-40ab-9d67-05f8caedb5b2",
+    "data": [
+        {
+            "id": "da1ba563-e812-4ea5-9bf6-7c7261bedc79",
+            "name": "Belgium Women vs Switzerland Women, 4th Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Stars Arena Hofstade, Zemst",
+            "date": "2025-05-29",
+            "dateTimeGMT": "2025-05-29T13:00:00",
+            "teams": [
+                "Belgium Women",
+                "Switzerland Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Belgium Women",
+                    "shortname": "BW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Switzerland Women",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "6b429396-0358-4010-a96f-2c85ad324344",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "55687746-979c-48b1-85fd-5a6e39ddb960",
+            "name": "Belgium Women vs Switzerland Women, 3rd Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Stars Arena Hofstade, Zemst",
+            "date": "2025-05-29",
+            "dateTimeGMT": "2025-05-29T08:45:00",
+            "teams": [
+                "Belgium Women",
+                "Switzerland Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Belgium Women",
+                    "shortname": "BW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Switzerland Women",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "6b429396-0358-4010-a96f-2c85ad324344",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "bb979452-5357-4255-849d-e89299a40d14",
+            "name": "Belgium Women vs Switzerland Women, 1st Match",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Stars Arena Hofstade, Zemst",
+            "date": "2025-05-28",
+            "dateTimeGMT": "2025-05-28T08:45:00",
+            "teams": [
+                "Belgium Women",
+                "Switzerland Women"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Belgium Women",
+                    "shortname": "BW",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                },
+                {
+                    "name": "Switzerland Women",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "6b429396-0358-4010-a96f-2c85ad324344",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "d03d52bf-10fe-4409-9a41-a455326c9210",
+            "name": "Pakistan vs Bangladesh, 3rd T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2025-06-01",
+            "dateTimeGMT": "2025-06-01T15:00:00",
+            "teams": [
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                }
+            ],
+            "series_id": "e832643d-e205-4590-b816-f5bf13a6887a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "feaf7e59-9a23-4735-85bb-c322f0c200c5",
+            "name": "Pakistan vs Bangladesh, 2nd T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2025-05-30",
+            "dateTimeGMT": "2025-05-30T15:00:00",
+            "teams": [
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                }
+            ],
+            "series_id": "e832643d-e205-4590-b816-f5bf13a6887a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "3bc2e847-58f3-41b3-867b-5f021410fe8e",
+            "name": "Pakistan vs Bangladesh, 1st T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2025-05-28",
+            "dateTimeGMT": "2025-05-28T15:00:00",
+            "teams": [
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                }
+            ],
+            "series_id": "e832643d-e205-4590-b816-f5bf13a6887a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "0bd3ded2-7b3d-4eff-9ed3-fb95036c0124",
+            "name": "Pakistan vs Bangladesh, 5th T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2025-06-03",
+            "dateTimeGMT": "2025-06-03T15:00:00",
+            "teams": [
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                }
+            ],
+            "series_id": "e832643d-e205-4590-b816-f5bf13a6887a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "d44bea3d-51e6-4d77-bd68-0394a44a1e7e",
+            "name": "Pakistan vs Bangladesh, 4th T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2025-06-01",
+            "dateTimeGMT": "2025-06-01T15:00:00",
+            "teams": [
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                }
+            ],
+            "series_id": "e832643d-e205-4590-b816-f5bf13a6887a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "2b476781-edc5-4f14-a8a9-79ef71bbf236",
+            "name": "Pakistan vs Bangladesh, 3rd T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Gaddafi Stadium, Lahore",
+            "date": "2025-05-30",
+            "dateTimeGMT": "2025-05-30T15:00:00",
+            "teams": [
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                }
+            ],
+            "series_id": "e832643d-e205-4590-b816-f5bf13a6887a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "fb4a6372-0329-4946-9367-04975be3fe7f",
+            "name": "Pakistan vs Bangladesh, 2nd T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Iqbal Stadium, Faisalabad",
+            "date": "2025-05-27",
+            "dateTimeGMT": "2025-05-27T15:00:00",
+            "teams": [
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                }
+            ],
+            "series_id": "e832643d-e205-4590-b816-f5bf13a6887a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "a2edc47d-117e-4bf5-8a91-a7473c6a9926",
+            "name": "Pakistan vs Bangladesh, 1st T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Iqbal Stadium, Faisalabad",
+            "date": "2025-05-25",
+            "dateTimeGMT": "2025-05-25T15:00:00",
+            "teams": [
+                "Bangladesh",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                }
+            ],
+            "series_id": "e832643d-e205-4590-b816-f5bf13a6887a",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "8ad980d4-da14-4d1d-a015-d077e8a6dc24",
+            "name": "United Arab Emirates vs Bangladesh, 3rd T20I",
+            "matchType": "t20",
+            "status": "United Arab Emirates won by 7 wkts",
+            "venue": "Sharjah Cricket Stadium, Sharjah",
+            "date": "2025-05-21",
+            "dateTimeGMT": "2025-05-21T15:00:00",
+            "teams": [
+                "United Arab Emirates",
+                "Bangladesh"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Bangladesh",
+                    "shortname": "BAN",
+                    "img": "https://g.cricapi.com/iapi/9-637877074109248302.webp?w=48"
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "shortname": "UAE",
+                    "img": "https://g.cricapi.com/iapi/92-637877081068315608.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 162,
+                    "w": 9,
+                    "o": 20,
+                    "inning": "Bangladesh Inning 1"
+                },
+                {
+                    "r": 166,
+                    "w": 3,
+                    "o": 19.1,
+                    "inning": "United Arab Emirates Inning 1"
+                }
+            ],
+            "series_id": "41ba7146-03d8-4aaf-a5d9-a7690c852658",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "07e7dbf3-914c-4a47-9729-4b0e3bfd2bc4",
+            "name": "Austria vs Slovenia, 2nd Match",
+            "matchType": "t20",
+            "status": "Austria won by 110 runs",
+            "venue": "Velden Cricket Ground, Latschach",
+            "date": "2025-05-17",
+            "dateTimeGMT": "2025-05-17T13:00:00",
+            "teams": [
+                "Austria",
+                "Slovenia"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Austria",
+                    "shortname": "AUT",
+                    "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+                },
+                {
+                    "name": "Slovenia",
+                    "shortname": "SLN",
+                    "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 223,
+                    "w": 8,
+                    "o": 20,
+                    "inning": "Austria Inning 1"
+                },
+                {
+                    "r": 113,
+                    "w": 9,
+                    "o": 20,
+                    "inning": "Slovenia Inning 1"
+                }
+            ],
+            "series_id": "3b37257a-1c4a-46d3-8eef-b0d9cd6f8bc2",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "c6c99735-8a32-4a66-8874-7348db29ab70",
+            "name": "Austria vs Slovenia, 1st Match",
+            "matchType": "t20",
+            "status": "Austria won by 75 runs",
+            "venue": "Velden Cricket Ground, Latschach",
+            "date": "2025-05-17",
+            "dateTimeGMT": "2025-05-17T08:00:00",
+            "teams": [
+                "Austria",
+                "Slovenia"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Austria",
+                    "shortname": "AUT",
+                    "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+                },
+                {
+                    "name": "Slovenia",
+                    "shortname": "SLN",
+                    "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 155,
+                    "w": 10,
+                    "o": 20,
+                    "inning": "Austria Inning 1"
+                },
+                {
+                    "r": 80,
+                    "w": 10,
+                    "o": 19.4,
+                    "inning": "Slovenia Inning 1"
+                }
+            ],
+            "series_id": "3b37257a-1c4a-46d3-8eef-b0d9cd6f8bc2",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "78ced925-31ad-4376-b76d-710a09551787",
+            "name": "Austria vs Slovenia, 4th Match",
+            "matchType": "t20",
+            "status": "Austria won by 168 runs",
+            "venue": "Velden Cricket Ground, Latschach",
+            "date": "2025-05-18",
+            "dateTimeGMT": "2025-05-18T13:00:00",
+            "teams": [
+                "Austria",
+                "Slovenia"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Austria",
+                    "shortname": "AUT",
+                    "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+                },
+                {
+                    "name": "Slovenia",
+                    "shortname": "SLN",
+                    "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 244,
+                    "w": 5,
+                    "o": 20,
+                    "inning": "Austria Inning 1"
+                },
+                {
+                    "r": 76,
+                    "w": 10,
+                    "o": 15,
+                    "inning": "Slovenia Inning 1"
+                }
+            ],
+            "series_id": "3b37257a-1c4a-46d3-8eef-b0d9cd6f8bc2",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "09a97a97-b29d-4148-b13a-5496b54ee83f",
+            "name": "Austria vs Slovenia, 3rd Match",
+            "matchType": "t20",
+            "status": "Austria won by 5 wkts",
+            "venue": "Velden Cricket Ground, Latschach",
+            "date": "2025-05-18",
+            "dateTimeGMT": "2025-05-18T08:00:00",
+            "teams": [
+                "Austria",
+                "Slovenia"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Austria",
+                    "shortname": "AUT",
+                    "img": "https://g.cricapi.com/iapi/581-637867646191086862.webp?w=48"
+                },
+                {
+                    "name": "Slovenia",
+                    "shortname": "SLN",
+                    "img": "https://g.cricapi.com/iapi/1862-637992917116921761.webp?w=48"
+                }
+            ],
+            "score": [
+                {
+                    "r": 91,
+                    "w": 8,
+                    "o": 20,
+                    "inning": "Slovenia Inning 1"
+                },
+                {
+                    "r": 93,
+                    "w": 5,
+                    "o": 8.3,
+                    "inning": "Austria Inning 1"
+                }
+            ],
+            "series_id": "3b37257a-1c4a-46d3-8eef-b0d9cd6f8bc2",
+            "fantasyEnabled": true,
+            "bbbEnabled": true,
+            "hasSquad": true,
+            "matchStarted": true,
+            "matchEnded": true
+        },
+        {
+            "id": "0bf615b8-1ebe-4eaf-82b9-4d035f80376b",
+            "name": "Tbc vs India, 4-day Warm-up Match",
+            "matchType": "test",
+            "status": "Match not started",
+            "venue": "Kent County Cricket Ground, Beckenham",
+            "date": "2025-06-13",
+            "dateTimeGMT": "2025-06-13T10:00:00",
+            "teams": [
+                "Tbc",
+                "India"
+            ],
+            "teamInfo": [
+                {
+                    "name": "India",
+                    "shortname": "IND",
+                    "img": "https://g.cricapi.com/iapi/31-637877061080567215.webp?w=48"
+                },
+                {
+                    "name": "Tbc",
+                    "shortname": "TBC",
+                    "img": "https://h.cricapi.com/img/icon512.png"
+                }
+            ],
+            "series_id": "8f227d30-17ca-4b64-9896-90fb2521f78f",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "abab722b-f335-432c-9d8e-1fb9a301f472",
+            "name": "West Indies A vs South Africa A, 2nd Unofficial Test",
+            "matchType": "test",
+            "status": "Match not started",
+            "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+            "date": "2025-06-08",
+            "dateTimeGMT": "2025-06-08T14:00:00",
+            "teams": [
+                "South Africa A",
+                "South Africa A"
+            ],
+            "teamInfo": [
+                {
+                    "name": "South Africa A",
+                    "shortname": "SA-A",
+                    "img": "https://g.cricapi.com/iapi/1132-637877069157056525.webp?w=48"
+                }
+            ],
+            "series_id": "0a96adb4-3d19-4e1f-b5a1-0fbee0416af1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "7de732eb-6821-492b-ace7-3f385b852719",
+            "name": "West Indies A vs South Africa A, 1st unofficial Test",
+            "matchType": "test",
+            "status": "Match not started",
+            "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+            "date": "2025-06-01",
+            "dateTimeGMT": "2025-06-01T14:00:00",
+            "teams": [
+                "South Africa A",
+                "South Africa A"
+            ],
+            "teamInfo": [
+                {
+                    "name": "South Africa A",
+                    "shortname": "SA-A",
+                    "img": "https://g.cricapi.com/iapi/1132-637877069157056525.webp?w=48"
+                }
+            ],
+            "series_id": "0a96adb4-3d19-4e1f-b5a1-0fbee0416af1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "14663597-a20d-4c5b-9a4c-55cea0295408",
+            "name": "West Indies A vs South Africa A, 3rd Unofficial ODI",
+            "matchType": "odi",
+            "status": "Match not started",
+            "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+            "date": "2025-05-27",
+            "dateTimeGMT": "2025-05-27T13:30:00",
+            "teams": [
+                "South Africa A",
+                "South Africa A"
+            ],
+            "teamInfo": [
+                {
+                    "name": "South Africa A",
+                    "shortname": "SA-A",
+                    "img": "https://g.cricapi.com/iapi/1132-637877069157056525.webp?w=48"
+                }
+            ],
+            "series_id": "0a96adb4-3d19-4e1f-b5a1-0fbee0416af1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": false,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "53e5a4ec-c4d2-4b38-87ca-0b22852a38f9",
+            "name": "West Indies A vs South Africa A, 2nd unofficial ODI",
+            "matchType": "odi",
+            "status": "Match not started",
+            "venue": "Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",
+            "date": "2025-05-24",
+            "dateTimeGMT": "2025-05-24T13:30:00",
+            "teams": [
+                "West Indies A",
+                "South Africa A"
+            ],
+            "teamInfo": [
+                {
+                    "name": "South Africa A",
+                    "shortname": "SA-A",
+                    "img": "https://g.cricapi.com/iapi/1132-637877069157056525.webp?w=48"
+                },
+                {
+                    "name": "West Indies A",
+                    "shortname": "WIA",
+                    "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+                }
+            ],
+            "series_id": "0a96adb4-3d19-4e1f-b5a1-0fbee0416af1",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "9cbeaa0c-de1c-4c19-83f8-7768d1e52858",
+            "name": "Ireland vs West Indies, 3rd T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Civil Service Cricket Club, Belfast",
+            "date": "2025-06-15",
+            "dateTimeGMT": "2025-06-15T14:00:00",
+            "teams": [
+                "Ireland",
+                "West Indies"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ireland",
+                    "shortname": "IRE",
+                    "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+                },
+                {
+                    "name": "West Indies",
+                    "shortname": "WI",
+                    "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+                }
+            ],
+            "series_id": "01e2078d-d00d-43b7-8909-7e6e8f792005",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "dcae829c-6a93-462a-b180-1ef962244b05",
+            "name": "Ireland vs West Indies, 2nd T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Civil Service Cricket Club, Belfast",
+            "date": "2025-06-14",
+            "dateTimeGMT": "2025-06-14T14:00:00",
+            "teams": [
+                "Ireland",
+                "West Indies"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ireland",
+                    "shortname": "IRE",
+                    "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+                },
+                {
+                    "name": "West Indies",
+                    "shortname": "WI",
+                    "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+                }
+            ],
+            "series_id": "01e2078d-d00d-43b7-8909-7e6e8f792005",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "ca03262e-73b7-4d0a-9f7a-df6071fed3be",
+            "name": "Ireland vs West Indies, 1st T20I",
+            "matchType": "t20",
+            "status": "Match not started",
+            "venue": "Civil Service Cricket Club, Belfast",
+            "date": "2025-06-12",
+            "dateTimeGMT": "2025-06-12T14:00:00",
+            "teams": [
+                "Ireland",
+                "West Indies"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ireland",
+                    "shortname": "IRE",
+                    "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+                },
+                {
+                    "name": "West Indies",
+                    "shortname": "WI",
+                    "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+                }
+            ],
+            "series_id": "01e2078d-d00d-43b7-8909-7e6e8f792005",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        },
+        {
+            "id": "96f33c17-49f6-4bbd-8911-6e30f15668ce",
+            "name": "Ireland vs West Indies, 3rd ODI",
+            "matchType": "odi",
+            "status": "Match not started",
+            "venue": "The Village, Dublin",
+            "date": "2025-05-25",
+            "dateTimeGMT": "2025-05-25T09:45:00",
+            "teams": [
+                "Ireland",
+                "West Indies"
+            ],
+            "teamInfo": [
+                {
+                    "name": "Ireland",
+                    "shortname": "IRE",
+                    "img": "https://g.cricapi.com/iapi/33-637926315578500224.png?w=48"
+                },
+                {
+                    "name": "West Indies",
+                    "shortname": "WI",
+                    "img": "https://g.cricapi.com/iapi/100-637877077978319234.webp?w=48"
+                }
+            ],
+            "series_id": "01e2078d-d00d-43b7-8909-7e6e8f792005",
+            "fantasyEnabled": false,
+            "bbbEnabled": false,
+            "hasSquad": true,
+            "matchStarted": false,
+            "matchEnded": false
+        }
+    ],
+    "status": "success",
+    "info": {
+        "hitsToday": 9,
+        "hitsUsed": 1,
+        "hitsLimit": 100,
+        "credits": 0,
+        "server": 14,
+        "offsetRows": 0,
+        "totalRows": 10817,
+        "queryTime": 126.1719,
+        "s": 0,
+        "cache": 0
+    }
+}
