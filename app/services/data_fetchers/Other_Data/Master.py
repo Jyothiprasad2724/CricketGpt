@@ -29,7 +29,7 @@ def run_all_fetchers():
     save_json(Player_info(), "player_stats.json")
     save_json(Match_info(), "match_results.json")
 
-    print("✅ All API data fetched and saved.")
+    print("All API data fetched and saved.")
 
 if __name__ == "__main__":
     run_all_fetchers()
