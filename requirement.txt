@@ -1,8 +1,6 @@
 flask
-faiss-cpu
-sentence-transformers 
-transformers
-apscheduler
+faiss
+streamlit
 beautifulsoup4
 pandas
 numpy
