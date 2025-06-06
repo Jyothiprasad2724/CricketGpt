@@ -36,5 +36,7 @@ def main():
     store_in_db(db_path, df_odi, 'odi_stats')
     store_in_db(db_path, df_t20, 't20_stats')
 
+    return df_test,df_odi,df_t20
+
 if __name__ == "__main__":
     main()

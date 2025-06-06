@@ -5,3 +5,4 @@ transformers
 apscheduler
 beautifulsoup4
 pandas
+numpy
