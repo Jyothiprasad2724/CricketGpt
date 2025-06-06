@@ -1,5 +1,5 @@
 flask
-faiss
+faiss-cpu
 streamlit
 beautifulsoup4
 pandas
