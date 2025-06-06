@@ -1,6 +1,6 @@
-flask
-faiss-cpu
 streamlit
-beautifulsoup4
 pandas
 numpy
+plotly
+sentence-transformers
+faiss-cpu
