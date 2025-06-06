@@ -1,5 +1,5 @@
 import streamlit as st
-import faiss
+import  faiss
 import pickle
 import numpy as np
 import pandas as pd
